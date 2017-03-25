@@ -1,0 +1,134 @@
+============================================
+   GNU MP 6.1.2: tests/cxx/test-suite.log
+============================================
+
+# TOTAL: 20
+# PASS:  0
+# SKIP:  0
+# XFAIL: 0
+# FAIL:  20
+# XPASS: 0
+# ERROR: 0
+
+.. contents:: :depth: 2
+
+FAIL: t-binary
+==============
+
+Cannot open assembly './t-binary.exe': File does not contain a valid CIL image.
+FAIL t-binary.exe (exit status: 2)
+
+FAIL: t-cast
+============
+
+Cannot open assembly './t-cast.exe': File does not contain a valid CIL image.
+FAIL t-cast.exe (exit status: 2)
+
+FAIL: t-cxx11
+=============
+
+Cannot open assembly './t-cxx11.exe': File does not contain a valid CIL image.
+FAIL t-cxx11.exe (exit status: 2)
+
+FAIL: t-headers
+===============
+
+Cannot open assembly './t-headers.exe': File does not contain a valid CIL image.
+FAIL t-headers.exe (exit status: 2)
+
+FAIL: t-iostream
+================
+
+Cannot open assembly './t-iostream.exe': File does not contain a valid CIL image.
+FAIL t-iostream.exe (exit status: 2)
+
+FAIL: t-istream
+===============
+
+Cannot open assembly './t-istream.exe': File does not contain a valid CIL image.
+FAIL t-istream.exe (exit status: 2)
+
+FAIL: t-locale
+==============
+
+Cannot open assembly './t-locale.exe': File does not contain a valid CIL image.
+FAIL t-locale.exe (exit status: 2)
+
+FAIL: t-misc
+============
+
+Cannot open assembly './t-misc.exe': File does not contain a valid CIL image.
+FAIL t-misc.exe (exit status: 2)
+
+FAIL: t-mix
+===========
+
+Cannot open assembly './t-mix.exe': File does not contain a valid CIL image.
+FAIL t-mix.exe (exit status: 2)
+
+FAIL: t-ops
+===========
+
+Cannot open assembly './t-ops.exe': File does not contain a valid CIL image.
+FAIL t-ops.exe (exit status: 2)
+
+FAIL: t-ops2
+============
+
+Cannot open assembly './t-ops2.exe': File does not contain a valid CIL image.
+FAIL t-ops2.exe (exit status: 2)
+
+FAIL: t-ops3
+============
+
+Cannot open assembly './t-ops3.exe': File does not contain a valid CIL image.
+FAIL t-ops3.exe (exit status: 2)
+
+FAIL: t-ostream
+===============
+
+Cannot open assembly './t-ostream.exe': File does not contain a valid CIL image.
+FAIL t-ostream.exe (exit status: 2)
+
+FAIL: t-prec
+============
+
+Cannot open assembly './t-prec.exe': File does not contain a valid CIL image.
+FAIL t-prec.exe (exit status: 2)
+
+FAIL: t-ternary
+===============
+
+Cannot open assembly './t-ternary.exe': File does not contain a valid CIL image.
+FAIL t-ternary.exe (exit status: 2)
+
+FAIL: t-unary
+=============
+
+Cannot open assembly './t-unary.exe': File does not contain a valid CIL image.
+FAIL t-unary.exe (exit status: 2)
+
+FAIL: t-do-exceptions-work-at-all-with-this-compiler
+====================================================
+
+Cannot open assembly './t-do-exceptions-work-at-all-with-this-compiler.exe': File does not contain a valid CIL image.
+FAIL t-do-exceptions-work-at-all-with-this-compiler.exe (exit status: 2)
+
+FAIL: t-assign
+==============
+
+Cannot open assembly './t-assign.exe': File does not contain a valid CIL image.
+FAIL t-assign.exe (exit status: 2)
+
+FAIL: t-constr
+==============
+
+Cannot open assembly './t-constr.exe': File does not contain a valid CIL image.
+FAIL t-constr.exe (exit status: 2)
+
+FAIL: t-rand
+============
+
+Cannot open assembly './t-rand.exe': File does not contain a valid CIL image.
+FAIL t-rand.exe (exit status: 2)
+

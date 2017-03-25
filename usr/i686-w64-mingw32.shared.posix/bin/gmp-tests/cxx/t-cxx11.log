@@ -1,0 +1,2 @@
+Cannot open assembly './t-cxx11.exe': File does not contain a valid CIL image.
+FAIL t-cxx11.exe (exit status: 2)

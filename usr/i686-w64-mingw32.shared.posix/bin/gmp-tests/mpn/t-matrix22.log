@@ -1,0 +1,2 @@
+Cannot open assembly './t-matrix22.exe': File does not contain a valid CIL image.
+FAIL t-matrix22.exe (exit status: 2)

@@ -1,0 +1,2 @@
+Cannot open assembly './t-mulmid.exe': File does not contain a valid CIL image.
+FAIL t-mulmid.exe (exit status: 2)

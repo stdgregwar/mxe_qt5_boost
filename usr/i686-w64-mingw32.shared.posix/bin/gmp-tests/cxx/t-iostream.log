@@ -1,0 +1,2 @@
+Cannot open assembly './t-iostream.exe': File does not contain a valid CIL image.
+FAIL t-iostream.exe (exit status: 2)

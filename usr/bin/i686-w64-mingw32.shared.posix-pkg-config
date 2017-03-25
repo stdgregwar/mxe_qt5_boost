@@ -1,0 +1,2 @@
+#!/bin/sh
+PKG_CONFIG_PATH="/home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/qt5/lib/pkgconfig":"$PKG_CONFIG_PATH_i686_w64_mingw32_shared_posix" PKG_CONFIG_LIBDIR='/home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/lib/pkgconfig' exec /home/gregwar/git/mxe/usr/x86_64-unknown-linux-gnu/bin/pkgconf  "$@"

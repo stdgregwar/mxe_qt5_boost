@@ -1,0 +1,2 @@
+Cannot open assembly './t-broot.exe': File does not contain a valid CIL image.
+FAIL t-broot.exe (exit status: 2)

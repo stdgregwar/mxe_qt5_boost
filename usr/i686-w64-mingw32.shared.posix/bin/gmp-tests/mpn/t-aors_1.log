@@ -1,0 +1,2 @@
+Cannot open assembly './t-aors_1.exe': File does not contain a valid CIL image.
+FAIL t-aors_1.exe (exit status: 2)

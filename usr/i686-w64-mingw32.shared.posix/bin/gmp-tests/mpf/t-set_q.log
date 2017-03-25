@@ -1,0 +1,2 @@
+Cannot open assembly './t-set_q.exe': File does not contain a valid CIL image.
+FAIL t-set_q.exe (exit status: 2)

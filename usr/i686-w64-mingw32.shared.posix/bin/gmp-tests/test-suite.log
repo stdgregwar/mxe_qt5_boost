@@ -1,0 +1,62 @@
+========================================
+   GNU MP 6.1.2: tests/test-suite.log
+========================================
+
+# TOTAL: 8
+# PASS:  0
+# SKIP:  0
+# XFAIL: 0
+# FAIL:  8
+# XPASS: 0
+# ERROR: 0
+
+.. contents:: :depth: 2
+
+FAIL: t-bswap
+=============
+
+Cannot open assembly './t-bswap.exe': File does not contain a valid CIL image.
+FAIL t-bswap.exe (exit status: 2)
+
+FAIL: t-constants
+=================
+
+Cannot open assembly './t-constants.exe': File does not contain a valid CIL image.
+FAIL t-constants.exe (exit status: 2)
+
+FAIL: t-count_zeros
+===================
+
+Cannot open assembly './t-count_zeros.exe': File does not contain a valid CIL image.
+FAIL t-count_zeros.exe (exit status: 2)
+
+FAIL: t-hightomask
+==================
+
+Cannot open assembly './t-hightomask.exe': File does not contain a valid CIL image.
+FAIL t-hightomask.exe (exit status: 2)
+
+FAIL: t-modlinv
+===============
+
+Cannot open assembly './t-modlinv.exe': File does not contain a valid CIL image.
+FAIL t-modlinv.exe (exit status: 2)
+
+FAIL: t-popc
+============
+
+Cannot open assembly './t-popc.exe': File does not contain a valid CIL image.
+FAIL t-popc.exe (exit status: 2)
+
+FAIL: t-parity
+==============
+
+Cannot open assembly './t-parity.exe': File does not contain a valid CIL image.
+FAIL t-parity.exe (exit status: 2)
+
+FAIL: t-sub
+===========
+
+Cannot open assembly './t-sub.exe': File does not contain a valid CIL image.
+FAIL t-sub.exe (exit status: 2)
+

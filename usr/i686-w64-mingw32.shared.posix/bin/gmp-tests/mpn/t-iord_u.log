@@ -1,0 +1,2 @@
+Cannot open assembly './t-iord_u.exe': File does not contain a valid CIL image.
+FAIL t-iord_u.exe (exit status: 2)

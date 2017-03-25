@@ -1,0 +1,2 @@
+Cannot open assembly './bit.exe': File does not contain a valid CIL image.
+FAIL bit.exe (exit status: 2)

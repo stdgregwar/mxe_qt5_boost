@@ -1,0 +1,56 @@
+=============================================
+   GNU MP 6.1.2: tests/rand/test-suite.log
+=============================================
+
+# TOTAL: 7
+# PASS:  0
+# SKIP:  0
+# XFAIL: 0
+# FAIL:  7
+# XPASS: 0
+# ERROR: 0
+
+.. contents:: :depth: 2
+
+FAIL: t-iset
+============
+
+Cannot open assembly './t-iset.exe': File does not contain a valid CIL image.
+FAIL t-iset.exe (exit status: 2)
+
+FAIL: t-lc2exp
+==============
+
+Cannot open assembly './t-lc2exp.exe': File does not contain a valid CIL image.
+FAIL t-lc2exp.exe (exit status: 2)
+
+FAIL: t-mt
+==========
+
+Cannot open assembly './t-mt.exe': File does not contain a valid CIL image.
+FAIL t-mt.exe (exit status: 2)
+
+FAIL: t-rand
+============
+
+Cannot open assembly './t-rand.exe': File does not contain a valid CIL image.
+FAIL t-rand.exe (exit status: 2)
+
+FAIL: t-urbui
+=============
+
+Cannot open assembly './t-urbui.exe': File does not contain a valid CIL image.
+FAIL t-urbui.exe (exit status: 2)
+
+FAIL: t-urmui
+=============
+
+Cannot open assembly './t-urmui.exe': File does not contain a valid CIL image.
+FAIL t-urmui.exe (exit status: 2)
+
+FAIL: t-urndmm
+==============
+
+Cannot open assembly './t-urndmm.exe': File does not contain a valid CIL image.
+FAIL t-urndmm.exe (exit status: 2)
+

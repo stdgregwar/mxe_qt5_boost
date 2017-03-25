@@ -1,0 +1,18 @@
+prefix=/home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+sysconfdir=${prefix}/etc
+localstatedir=${prefix}/var
+PACKAGE=fontconfig
+confdir=${sysconfdir}/fonts
+cachedir=LOCAL_APPDATA_FONTCONFIG_CACHE
+
+Name: Fontconfig
+Description: Font configuration and customization library
+Version: 2.12.1
+Requires:  freetype2
+Requires.private: 
+Libs: -L${libdir} -lfontconfig
+Libs.private: -L/home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/lib -lexpat -L/home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/lib -lfreetype    
+Cflags: -I${includedir} -I/home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/include -I/home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/include/freetype2 -I/home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/include    

@@ -1,0 +1,2 @@
+Cannot open assembly './dive.exe': File does not contain a valid CIL image.
+FAIL dive.exe (exit status: 2)

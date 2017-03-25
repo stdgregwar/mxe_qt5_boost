@@ -1,0 +1,2 @@
+Cannot open assembly './t-popcount.exe': File does not contain a valid CIL image.
+FAIL t-popcount.exe (exit status: 2)

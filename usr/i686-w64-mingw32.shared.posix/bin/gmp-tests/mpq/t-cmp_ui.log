@@ -1,0 +1,2 @@
+Cannot open assembly './t-cmp_ui.exe': File does not contain a valid CIL image.
+FAIL t-cmp_ui.exe (exit status: 2)

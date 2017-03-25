@@ -1,0 +1,2 @@
+Cannot open assembly './t-asmtype.exe': File does not contain a valid CIL image.
+FAIL t-asmtype.exe (exit status: 2)

@@ -1,0 +1,14 @@
+prefix=/home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/qt5
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+
+Name: Qt5 XmlPatterns
+Description: Qt XmlPatterns module
+Version: 5.8.0
+Libs: -L${libdir} -lQt5XmlPatterns 
+Libs.private: -L/home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/qt5/lib /home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/qt5/lib/libQt5Network.a /home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/qt5/lib/libQt5Core.a .obj/release/Qt5XmlPatterns_resource_res.o   
+Cflags: -I${includedir}/QtXmlPatterns -I${includedir}
+Requires: Qt5Core Qt5Network
+

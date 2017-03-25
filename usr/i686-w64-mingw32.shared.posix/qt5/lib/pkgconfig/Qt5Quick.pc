@@ -1,0 +1,14 @@
+prefix=/home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/qt5
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+
+Name: Qt5 Quick
+Description: Qt Quick module
+Version: 5.8.0
+Libs: -L${libdir} -lQt5Quick 
+Libs.private: -lopengl32 -luser32 -L/home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/qt5/lib /home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/qt5/lib/libQt5Qml.a -L/home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/qt5/lib /home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/qt5/lib/libQt5Gui.a /home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/qt5/lib/libQt5Network.a /home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/qt5/lib/libQt5Core.a .obj/release/Qt5Quick_resource_res.o /home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/qt5/lib/libQt5Network.a /home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/qt5/lib/libQt5Core.a  
+Cflags: -I${includedir}/QtQuick -I${includedir}
+Requires: Qt5Core Qt5Gui Qt5Qml
+

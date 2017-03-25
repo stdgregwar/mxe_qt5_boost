@@ -1,0 +1,104 @@
+============================================
+   GNU MP 6.1.2: tests/mpq/test-suite.log
+============================================
+
+# TOTAL: 15
+# PASS:  0
+# SKIP:  0
+# XFAIL: 0
+# FAIL:  15
+# XPASS: 0
+# ERROR: 0
+
+.. contents:: :depth: 2
+
+FAIL: t-aors
+============
+
+Cannot open assembly './t-aors.exe': File does not contain a valid CIL image.
+FAIL t-aors.exe (exit status: 2)
+
+FAIL: t-cmp
+===========
+
+Cannot open assembly './t-cmp.exe': File does not contain a valid CIL image.
+FAIL t-cmp.exe (exit status: 2)
+
+FAIL: t-cmp_ui
+==============
+
+Cannot open assembly './t-cmp_ui.exe': File does not contain a valid CIL image.
+FAIL t-cmp_ui.exe (exit status: 2)
+
+FAIL: t-cmp_si
+==============
+
+Cannot open assembly './t-cmp_si.exe': File does not contain a valid CIL image.
+FAIL t-cmp_si.exe (exit status: 2)
+
+FAIL: t-equal
+=============
+
+Cannot open assembly './t-equal.exe': File does not contain a valid CIL image.
+FAIL t-equal.exe (exit status: 2)
+
+FAIL: t-get_d
+=============
+
+Cannot open assembly './t-get_d.exe': File does not contain a valid CIL image.
+FAIL t-get_d.exe (exit status: 2)
+
+FAIL: t-get_str
+===============
+
+Cannot open assembly './t-get_str.exe': File does not contain a valid CIL image.
+FAIL t-get_str.exe (exit status: 2)
+
+FAIL: t-inp_str
+===============
+
+Cannot open assembly './t-inp_str.exe': File does not contain a valid CIL image.
+FAIL t-inp_str.exe (exit status: 2)
+
+FAIL: t-inv
+===========
+
+Cannot open assembly './t-inv.exe': File does not contain a valid CIL image.
+FAIL t-inv.exe (exit status: 2)
+
+FAIL: t-md_2exp
+===============
+
+Cannot open assembly './t-md_2exp.exe': File does not contain a valid CIL image.
+FAIL t-md_2exp.exe (exit status: 2)
+
+FAIL: t-set_f
+=============
+
+Cannot open assembly './t-set_f.exe': File does not contain a valid CIL image.
+FAIL t-set_f.exe (exit status: 2)
+
+FAIL: t-set_str
+===============
+
+Cannot open assembly './t-set_str.exe': File does not contain a valid CIL image.
+FAIL t-set_str.exe (exit status: 2)
+
+FAIL: io
+========
+
+Cannot open assembly './io.exe': File does not contain a valid CIL image.
+FAIL io.exe (exit status: 2)
+
+FAIL: reuse
+===========
+
+Cannot open assembly './reuse.exe': File does not contain a valid CIL image.
+FAIL reuse.exe (exit status: 2)
+
+FAIL: t-cmp_z
+=============
+
+Cannot open assembly './t-cmp_z.exe': File does not contain a valid CIL image.
+FAIL t-cmp_z.exe (exit status: 2)
+

@@ -1,0 +1,2 @@
+Cannot open assembly './t-primorial_ui.exe': File does not contain a valid CIL image.
+FAIL t-primorial_ui.exe (exit status: 2)

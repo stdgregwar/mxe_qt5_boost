@@ -1,0 +1,2 @@
+Cannot open assembly './t-mod_1.exe': File does not contain a valid CIL image.
+FAIL t-mod_1.exe (exit status: 2)

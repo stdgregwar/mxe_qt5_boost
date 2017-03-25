@@ -1,0 +1,2 @@
+Cannot open assembly './t-inp_str.exe': File does not contain a valid CIL image.
+FAIL t-inp_str.exe (exit status: 2)

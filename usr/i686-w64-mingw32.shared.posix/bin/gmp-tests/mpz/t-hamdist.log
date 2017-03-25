@@ -1,0 +1,2 @@
+Cannot open assembly './t-hamdist.exe': File does not contain a valid CIL image.
+FAIL t-hamdist.exe (exit status: 2)

@@ -1,0 +1,14 @@
+prefix=/home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix
+exec_prefix=/home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix
+libdir=/home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/lib
+includedir=/home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/include
+
+Name: FreeType 2
+URL: http://freetype.org
+Description: A free, high-quality, and portable font engine.
+Version: 18.6.12
+Requires:
+Requires.private: zlib, harfbuzz >= 0.9.21
+Libs: -L${libdir} -lfreetype
+Libs.private: -lbz2 -L/home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/lib -lpng16
+Cflags: -I${includedir}/freetype2

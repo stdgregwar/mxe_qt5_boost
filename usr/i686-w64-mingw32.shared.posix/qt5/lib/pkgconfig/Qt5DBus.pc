@@ -1,0 +1,14 @@
+prefix=/home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/qt5
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+
+Name: Qt5 DBus
+Description: Qt DBus module
+Version: 5.8.0
+Libs: -L${libdir} -lQt5DBus 
+Libs.private: -L/home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/qt5/lib /home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/qt5/lib/libQt5Core.a .obj/release/Qt5DBus_resource_res.o -lws2_32 -ladvapi32 -lnetapi32 -luser32 -ldbus-1  
+Cflags: -I${includedir}/QtDBus -I${includedir}
+Requires: Qt5Core
+

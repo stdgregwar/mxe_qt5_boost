@@ -1,0 +1,2 @@
+Cannot open assembly './t-pow_ui.exe': File does not contain a valid CIL image.
+FAIL t-pow_ui.exe (exit status: 2)

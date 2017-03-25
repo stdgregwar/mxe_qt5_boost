@@ -1,0 +1,2 @@
+Cannot open assembly './t-divis_2exp.exe': File does not contain a valid CIL image.
+FAIL t-divis_2exp.exe (exit status: 2)

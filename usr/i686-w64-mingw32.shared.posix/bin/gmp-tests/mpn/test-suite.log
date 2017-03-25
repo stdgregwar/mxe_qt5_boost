@@ -1,0 +1,290 @@
+============================================
+   GNU MP 6.1.2: tests/mpn/test-suite.log
+============================================
+
+# TOTAL: 46
+# PASS:  0
+# SKIP:  0
+# XFAIL: 0
+# FAIL:  46
+# XPASS: 0
+# ERROR: 0
+
+.. contents:: :depth: 2
+
+FAIL: t-asmtype
+===============
+
+Cannot open assembly './t-asmtype.exe': File does not contain a valid CIL image.
+FAIL t-asmtype.exe (exit status: 2)
+
+FAIL: t-aors_1
+==============
+
+Cannot open assembly './t-aors_1.exe': File does not contain a valid CIL image.
+FAIL t-aors_1.exe (exit status: 2)
+
+FAIL: t-divrem_1
+================
+
+Cannot open assembly './t-divrem_1.exe': File does not contain a valid CIL image.
+FAIL t-divrem_1.exe (exit status: 2)
+
+FAIL: t-mod_1
+=============
+
+Cannot open assembly './t-mod_1.exe': File does not contain a valid CIL image.
+FAIL t-mod_1.exe (exit status: 2)
+
+FAIL: t-fat
+===========
+
+Cannot open assembly './t-fat.exe': File does not contain a valid CIL image.
+FAIL t-fat.exe (exit status: 2)
+
+FAIL: t-get_d
+=============
+
+Cannot open assembly './t-get_d.exe': File does not contain a valid CIL image.
+FAIL t-get_d.exe (exit status: 2)
+
+FAIL: t-instrument
+==================
+
+Cannot open assembly './t-instrument.exe': File does not contain a valid CIL image.
+FAIL t-instrument.exe (exit status: 2)
+
+FAIL: t-iord_u
+==============
+
+Cannot open assembly './t-iord_u.exe': File does not contain a valid CIL image.
+FAIL t-iord_u.exe (exit status: 2)
+
+FAIL: t-mp_bases
+================
+
+Cannot open assembly './t-mp_bases.exe': File does not contain a valid CIL image.
+FAIL t-mp_bases.exe (exit status: 2)
+
+FAIL: t-perfsqr
+===============
+
+Cannot open assembly './t-perfsqr.exe': File does not contain a valid CIL image.
+FAIL t-perfsqr.exe (exit status: 2)
+
+FAIL: t-scan
+============
+
+Cannot open assembly './t-scan.exe': File does not contain a valid CIL image.
+FAIL t-scan.exe (exit status: 2)
+
+FAIL: logic
+===========
+
+Cannot open assembly './logic.exe': File does not contain a valid CIL image.
+FAIL logic.exe (exit status: 2)
+
+FAIL: t-toom22
+==============
+
+Cannot open assembly './t-toom22.exe': File does not contain a valid CIL image.
+FAIL t-toom22.exe (exit status: 2)
+
+FAIL: t-toom32
+==============
+
+Cannot open assembly './t-toom32.exe': File does not contain a valid CIL image.
+FAIL t-toom32.exe (exit status: 2)
+
+FAIL: t-toom33
+==============
+
+Cannot open assembly './t-toom33.exe': File does not contain a valid CIL image.
+FAIL t-toom33.exe (exit status: 2)
+
+FAIL: t-toom42
+==============
+
+Cannot open assembly './t-toom42.exe': File does not contain a valid CIL image.
+FAIL t-toom42.exe (exit status: 2)
+
+FAIL: t-toom43
+==============
+
+Cannot open assembly './t-toom43.exe': File does not contain a valid CIL image.
+FAIL t-toom43.exe (exit status: 2)
+
+FAIL: t-toom44
+==============
+
+Cannot open assembly './t-toom44.exe': File does not contain a valid CIL image.
+FAIL t-toom44.exe (exit status: 2)
+
+FAIL: t-toom52
+==============
+
+Cannot open assembly './t-toom52.exe': File does not contain a valid CIL image.
+FAIL t-toom52.exe (exit status: 2)
+
+FAIL: t-toom53
+==============
+
+Cannot open assembly './t-toom53.exe': File does not contain a valid CIL image.
+FAIL t-toom53.exe (exit status: 2)
+
+FAIL: t-toom54
+==============
+
+Cannot open assembly './t-toom54.exe': File does not contain a valid CIL image.
+FAIL t-toom54.exe (exit status: 2)
+
+FAIL: t-toom62
+==============
+
+Cannot open assembly './t-toom62.exe': File does not contain a valid CIL image.
+FAIL t-toom62.exe (exit status: 2)
+
+FAIL: t-toom63
+==============
+
+Cannot open assembly './t-toom63.exe': File does not contain a valid CIL image.
+FAIL t-toom63.exe (exit status: 2)
+
+FAIL: t-toom6h
+==============
+
+Cannot open assembly './t-toom6h.exe': File does not contain a valid CIL image.
+FAIL t-toom6h.exe (exit status: 2)
+
+FAIL: t-toom8h
+==============
+
+Cannot open assembly './t-toom8h.exe': File does not contain a valid CIL image.
+FAIL t-toom8h.exe (exit status: 2)
+
+FAIL: t-toom2-sqr
+=================
+
+Cannot open assembly './t-toom2-sqr.exe': File does not contain a valid CIL image.
+FAIL t-toom2-sqr.exe (exit status: 2)
+
+FAIL: t-toom3-sqr
+=================
+
+Cannot open assembly './t-toom3-sqr.exe': File does not contain a valid CIL image.
+FAIL t-toom3-sqr.exe (exit status: 2)
+
+FAIL: t-toom4-sqr
+=================
+
+Cannot open assembly './t-toom4-sqr.exe': File does not contain a valid CIL image.
+FAIL t-toom4-sqr.exe (exit status: 2)
+
+FAIL: t-toom6-sqr
+=================
+
+Cannot open assembly './t-toom6-sqr.exe': File does not contain a valid CIL image.
+FAIL t-toom6-sqr.exe (exit status: 2)
+
+FAIL: t-toom8-sqr
+=================
+
+Cannot open assembly './t-toom8-sqr.exe': File does not contain a valid CIL image.
+FAIL t-toom8-sqr.exe (exit status: 2)
+
+FAIL: t-div
+===========
+
+Cannot open assembly './t-div.exe': File does not contain a valid CIL image.
+FAIL t-div.exe (exit status: 2)
+
+FAIL: t-mul
+===========
+
+Cannot open assembly './t-mul.exe': File does not contain a valid CIL image.
+FAIL t-mul.exe (exit status: 2)
+
+FAIL: t-mullo
+=============
+
+Cannot open assembly './t-mullo.exe': File does not contain a valid CIL image.
+FAIL t-mullo.exe (exit status: 2)
+
+FAIL: t-sqrlo
+=============
+
+Cannot open assembly './t-sqrlo.exe': File does not contain a valid CIL image.
+FAIL t-sqrlo.exe (exit status: 2)
+
+FAIL: t-mulmod_bnm1
+===================
+
+Cannot open assembly './t-mulmod_bnm1.exe': File does not contain a valid CIL image.
+FAIL t-mulmod_bnm1.exe (exit status: 2)
+
+FAIL: t-sqrmod_bnm1
+===================
+
+Cannot open assembly './t-sqrmod_bnm1.exe': File does not contain a valid CIL image.
+FAIL t-sqrmod_bnm1.exe (exit status: 2)
+
+FAIL: t-mulmid
+==============
+
+Cannot open assembly './t-mulmid.exe': File does not contain a valid CIL image.
+FAIL t-mulmid.exe (exit status: 2)
+
+FAIL: t-hgcd
+============
+
+Cannot open assembly './t-hgcd.exe': File does not contain a valid CIL image.
+FAIL t-hgcd.exe (exit status: 2)
+
+FAIL: t-hgcd_appr
+=================
+
+Cannot open assembly './t-hgcd_appr.exe': File does not contain a valid CIL image.
+FAIL t-hgcd_appr.exe (exit status: 2)
+
+FAIL: t-matrix22
+================
+
+Cannot open assembly './t-matrix22.exe': File does not contain a valid CIL image.
+FAIL t-matrix22.exe (exit status: 2)
+
+FAIL: t-invert
+==============
+
+Cannot open assembly './t-invert.exe': File does not contain a valid CIL image.
+FAIL t-invert.exe (exit status: 2)
+
+FAIL: t-bdiv
+============
+
+Cannot open assembly './t-bdiv.exe': File does not contain a valid CIL image.
+FAIL t-bdiv.exe (exit status: 2)
+
+FAIL: t-broot
+=============
+
+Cannot open assembly './t-broot.exe': File does not contain a valid CIL image.
+FAIL t-broot.exe (exit status: 2)
+
+FAIL: t-brootinv
+================
+
+Cannot open assembly './t-brootinv.exe': File does not contain a valid CIL image.
+FAIL t-brootinv.exe (exit status: 2)
+
+FAIL: t-minvert
+===============
+
+Cannot open assembly './t-minvert.exe': File does not contain a valid CIL image.
+FAIL t-minvert.exe (exit status: 2)
+
+FAIL: t-sizeinbase
+==================
+
+Cannot open assembly './t-sizeinbase.exe': File does not contain a valid CIL image.
+FAIL t-sizeinbase.exe (exit status: 2)
+

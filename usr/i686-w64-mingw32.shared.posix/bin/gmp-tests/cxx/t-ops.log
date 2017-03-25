@@ -1,0 +1,2 @@
+Cannot open assembly './t-ops.exe': File does not contain a valid CIL image.
+FAIL t-ops.exe (exit status: 2)

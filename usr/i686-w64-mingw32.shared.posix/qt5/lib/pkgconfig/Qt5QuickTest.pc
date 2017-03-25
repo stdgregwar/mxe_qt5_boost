@@ -1,0 +1,14 @@
+prefix=/home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/qt5
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+
+Name: Qt5 QuickTest
+Description: Qt QuickTest module
+Version: 5.8.0
+Libs: -L${libdir} -lQt5QuickTest 
+Libs.private: -lopengl32 -L/home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/qt5/lib /home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/qt5/lib/libQt5Test.a /home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/qt5/lib/libQt5Widgets.a /home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/qt5/lib/libQt5Gui.a /home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/qt5/lib/libQt5Core.a .obj/release/Qt5QuickTest_resource_res.o -L/home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/qt5/lib /home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/qt5/lib/libQt5Quick.a /home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/qt5/lib/libQt5Qml.a /home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/qt5/lib/libQt5Gui.a /home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/qt5/lib/libQt5Network.a /home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/qt5/lib/libQt5Core.a  
+Cflags: -I${includedir}/QtQuickTest -I${includedir}
+Requires: Qt5Core Qt5Test Qt5Widgets
+

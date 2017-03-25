@@ -1,0 +1,2 @@
+Cannot open assembly './t-get_d_2exp.exe': File does not contain a valid CIL image.
+FAIL t-get_d_2exp.exe (exit status: 2)

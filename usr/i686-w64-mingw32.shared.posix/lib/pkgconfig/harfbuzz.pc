@@ -1,0 +1,14 @@
+prefix=/home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix
+exec_prefix=/home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix
+libdir=/home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/lib
+includedir=/home/gregwar/git/mxe/usr/i686-w64-mingw32.shared.posix/include
+
+Name: harfbuzz
+Description: HarfBuzz text shaping library
+Version: 1.4.1
+
+Requires.private: cairo-ft glib-2.0
+Libs: -L${libdir} -lharfbuzz
+Libs.private:     -lusp10 -lgdi32
+Requires.private: glib-2.0 >= 2.19.1 
+Cflags: -I${includedir}/harfbuzz

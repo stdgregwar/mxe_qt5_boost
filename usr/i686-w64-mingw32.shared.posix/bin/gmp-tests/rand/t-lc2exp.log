@@ -1,0 +1,2 @@
+Cannot open assembly './t-lc2exp.exe': File does not contain a valid CIL image.
+FAIL t-lc2exp.exe (exit status: 2)

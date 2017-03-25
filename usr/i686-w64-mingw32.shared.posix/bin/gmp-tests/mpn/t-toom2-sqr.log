@@ -1,0 +1,2 @@
+Cannot open assembly './t-toom2-sqr.exe': File does not contain a valid CIL image.
+FAIL t-toom2-sqr.exe (exit status: 2)
